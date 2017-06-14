@@ -1,0 +1,5 @@
+{
+	"ImportPath": "github.com/No5stranger/http_service",
+	"GoVersion": "go1.5",
+	"Deps": []
+}
